@@ -1,0 +1,10 @@
+.movieCard {
+    list-style: none; /* Elimina los puntos de listas */
+    font-size: 24px;
+    text-align: center;
+}
+
+.movieImage {
+    border-radius: 10px;
+    background-color: azure;
+}
